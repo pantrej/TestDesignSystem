@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/testspace1.blank-lai3pjb2",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve d2d6KVaeb7NYcv0ikgdj --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
